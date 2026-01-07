@@ -13,7 +13,6 @@
 - ⚡ Fun fact: ...
 -->
 - 🔭 I'm a Bachelor of Telecommunications at the Wrocław University of Technology
-- 🌱 I’m currently studying master's degree in Computer science with a specialization in Artificial Intelligence and machine learning
-- ⚡ I’m improving myself in cybersecurity.
-- 🎮 Currently developing a game in Unity as a side group project.
+- 🌱 I’m currently studying a master's degree in Computer Science with a specialisation in Artificial Intelligence and machine learning
+
   
