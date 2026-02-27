@@ -1,22 +1,22 @@
 ## Hi there 👋
 
-# PMO & Project Coordinator | AI & Data Specialist
-
-**Bridging Governance and Intelligence** I optimize project lifecycles by integrating **PMO rigor** with **AI/ML technical depth**. My focus lies in leveraging data-driven insights to streamline workflows, enhance resource allocation, and ensure high-level stakeholder alignment.
+# PMO & Project Coordinator | AI & ML Specialist
 
 ---
 
-### **Technical Profile**
-* **Specialization:** AI, Machine Learning, & Data Analysis.
-* **Education:** * M.Sc. in Computer Science (Specialization: AI/ML) – *In Progress*.
-    * B.Sc. in Telecommunications.
-* **Core Competencies:** Project Governance, Process Optimization, Scalable AI Solutions, Resource Management.
+### **Core Focus**
+* **Project Management:** PMO operations, resource optimisation.
+* **Technical Depth:** AI, Machine Learning, and Data Analysis.
+* **Process Engineering:** Utilising AI tools to streamline workflows and delivery.
 
-### **Key Achievements**
-* **AI Integration:** Successfully delivered multiple AI-driven projects under tight resource constraints.
-* **Operational Excellence:** Automated PMO workflows to increase delivery velocity and data accuracy.
-* **Stakeholder Management:** Maintained cross-functional alignment across technical and business domains.
+### **Education**
+* **M.Sc. Computer Science (AI/ML)** | *In Progress*
+* **B.Sc. Telecommunications**
+
+### **Key Expertise**
+* **Scalable AI Solutions:** Delivered high-impact projects under strict resource constraints.
+* **Data-Driven Governance:** Integration of ML models into traditional PMO frameworks.
+* **Continuous Optimization:** Focused on iterative development and process efficiency.
 
 ---
 
-*“Focused on the intersection of professional governance and cutting-edge machine learning.”*
