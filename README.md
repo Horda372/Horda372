@@ -1,20 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Horda372/Horda372** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# PMO & Project Coordinator | AI & Data Specialist
 
-- 🔭 I'm a Bachelor of Telecommunications at the Wrocław University of Technology
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Bridging Governance and Intelligence** I optimize project lifecycles by integrating **PMO rigor** with **AI/ML technical depth**. My focus lies in leveraging data-driven insights to streamline workflows, enhance resource allocation, and ensure high-level stakeholder alignment.
 
-PMO & Project Coordinator with a passion for AI, Machine Learning, and Data Analysis
+---
 
-Focused on continuous development and process optimisation. I combine professional experience in project governance and PMO operations with a solid technical background in Artificial Intelligence, Machine Learning, and Data Analysis. I utilise AI tools to streamline workflows, manage resources efficiently, and maintain stakeholder alignment.
+### **Technical Profile**
+* **Specialization:** AI, Machine Learning, & Data Analysis.
+* **Education:** * M.Sc. in Computer Science (Specialization: AI/ML) – *In Progress*.
+    * B.Sc. in Telecommunications.
+* **Core Competencies:** Project Governance, Process Optimization, Scalable AI Solutions, Resource Management.
 
-I hold a Bachelor's degree in Telecommunications and am currently pursuing a Master's degree in Computer Science with a specialisation in AI and ML. I have successfully led multiple AI-driven projects, delivering scalable solutions under strict time and resource constraints.
+### **Key Achievements**
+* **AI Integration:** Successfully delivered multiple AI-driven projects under tight resource constraints.
+* **Operational Excellence:** Automated PMO workflows to increase delivery velocity and data accuracy.
+* **Stakeholder Management:** Maintained cross-functional alignment across technical and business domains.
+
+---
+
+*“Focused on the intersection of professional governance and cutting-edge machine learning.”*
