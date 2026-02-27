@@ -12,7 +12,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I'm a Bachelor of Telecommunications at the Wrocław University of Technology
-- 🌱 I’m currently studying a master's degree in Computer Science with a specialisation in Artificial Intelligence and machine learning
 
-  
+PMO & Project Coordinator with a passion for AI, Machine Learning, and Data Analysis
+
+Focused on continuous development and process optimisation. I combine professional experience in project governance and PMO operations with a solid technical background in Artificial Intelligence, Machine Learning, and Data Analysis. I utilise AI tools to streamline workflows, manage resources efficiently, and maintain stakeholder alignment.
+
+I hold a Bachelor's degree in Telecommunications and am currently pursuing a Master's degree in Computer Science with a specialisation in AI and ML. I have successfully led multiple AI-driven projects, delivering scalable solutions under strict time and resource constraints.
