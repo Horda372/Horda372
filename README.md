@@ -14,7 +14,6 @@
 * **B.Sc. Telecommunications**
 
 ### **Key Expertise**
-* **Scalable AI Solutions:** Delivered high-impact projects under strict resource constraints.
 * **Data-Driven Governance:** Integration of ML models into traditional PMO frameworks.
 * **Continuous Optimization:** Focused on iterative development and process efficiency.
 
